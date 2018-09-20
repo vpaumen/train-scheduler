@@ -1,0 +1,57 @@
+body {
+    font-family: "Times New Roman", Time, serif; 
+    background-image: url("../images/trainbkg.jpg")     
+}
+.jumbotron {
+    background-color: rgb(202, 196, 196);
+    height: 220px;
+    padding-top: 20px;
+}
+.card-header-sched {
+    background-color: rgb(84, 121, 84);
+    font-weight: bold;
+}
+.card-header-add {
+    background-color: lightslategray;
+    font-weight: bold; 
+}
+
+.display-top {
+    color: rgb(68, 68, 105);
+    font-family: 'Fugaz One',Arial, Helvetica, sans-serif;
+    font-size: 70px;
+    padding-top:2px;
+    text-shadow: 
+      1px -1px 0 #767676, 
+      -1px 2px 1px #737272, 
+      -2px 4px 1px #767474, 
+      -3px 6px 1px #787777, 
+      -4px 8px 1px #7b7a7a, 
+      -5px 10px 1px #7f7d7d, 
+      -6px 12px 1px #828181;
+         
+}
+.display-sub {
+    color: rgb(77, 75, 75);
+    font-family: 'Spicy Rice', Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    padding-top:2px;
+    text-shadow: 
+      1px  1px 0 #f7f4f4, 
+      -1px 2px 1px #737272, 
+      -2px 4px 1px #767474, 
+      -3px 6px 1px #787777, 
+      -4px 8px 1px #7b7a7a, 
+      -5px 10px 1px #7f7d7d, 
+      -6px 12px 1px #828181;
+}
+h1 {
+    color: blue;
+    text-align: center;
+    font-size:  90px;
+}
+
+p {
+    color: blue;
+    text-align: center;
+}
